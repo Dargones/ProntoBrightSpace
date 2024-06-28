@@ -1,0 +1,5 @@
+{"auth_service": "https://auth.brightspace.com/", 
+ "bspace_url": "https://DOMAIN.brightspace.com/",
+ "client_id": "TO_FILL",
+ "client_secret": "TO_FILL",
+ "refresh_token": "TO_FILL"}
